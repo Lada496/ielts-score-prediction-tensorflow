@@ -32,7 +32,7 @@ It contains the following columns:
 - `Task_Type`: 1 or 2
 - `Question`: The essay prompt
 - `Essay`: The student’s essay
-- `Overall`: IELTS writing score (3.0–9.0)
+- `Overall`: IELTS writing score (1.0–9.0)
 - Other columns like `Examiner_Comment` (not used in the model)
 
 For this project, we only use **Task 2 essays**.
